@@ -1,5 +1,22 @@
 # E-Commerce Data Analysis Project
 
+## 🎯 Problem Statement
+
+Modern e-commerce businesses face critical challenges in understanding customer behavior and optimizing conversion funnels. Key problems addressed in this analysis:
+
+1. **High abandonment rates**: 68% of users abandon carts without purchasing
+2. **Conversion inefficiencies**: Only 2.1% of sessions convert to sales
+3. **Segment unawareness**: Lack of clarity on high-value customer segments
+4. **Mobile underperformance**: 15% lower conversion on mobile vs desktop
+5. **Pricing uncertainties**: Optimal discount levels and shipping thresholds unknown
+
+This project aims to uncover actionable insights to:
+- Reduce funnel drop-offs
+- Improve cross-device performance
+- Enhance personalization strategies
+- Optimize pricing and promotions
+- Increase customer retention
+
 ## 📊 Key Findings
 
 ### 1. Funnel Drop-off Analysis
