@@ -1,8 +1,8 @@
-# E-Commerce Data Analysis Project
+# User Journey Optimization : Reducing Drop Offs & Boosting Conversions and Retentions for B2C Product
 
 ## 🎯 Problem Statement
 
-Modern e-commerce businesses face critical challenges in understanding customer behavior and optimizing conversion funnels. Key problems addressed in this analysis:
+Modern B2C businesses face critical challenges in understanding customer behavior and optimizing conversion funnels. Key problems addressed in this analysis:
 
 1. **High abandonment rates**: 68% of users abandon carts without purchasing
 2. **Conversion inefficiencies**: Only 2.1% of sessions convert to sales
